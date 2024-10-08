@@ -1,0 +1,55 @@
+﻿<supermap_license>
+  <signature>angatserver++02:42:7D:74:75:A1++44d9383ba37e42d9ac5d0539aa193fe5</signature>
+  <licmode>8</licmode>
+  <version>1100</version>
+  <start>20240529</start>
+  <end>99981231</end>
+  <user>Angat LGU</user>
+  <company>Angat LGU</company>
+  <access>
+  </access>
+  <watermark>1</watermark>
+  <usertrademark>s</usertrademark>
+  <feature>
+    <id>21000</id>
+    <name>21000</name>
+    <maxlogins>1</maxlogins>
+    <licdata>d+V/6VNnz4lP8VSphzzWNoqWT+eVNpthbWbF/AkXHpRtGrJCF0zuYHyAnSFw/PoBotmBqNcw4lyf9SwDRMPjmv6qKGWD+K9Xehi/TipqtWZSbv4QJHXDmXFKycavq889K4NrWTddF0s1OMFjAB4POQ9AgyJJW1+f9BpMZCXn5Hw=</licdata>
+  </feature>
+  <feature>
+    <id>20601</id>
+    <name>20601</name>
+    <maxlogins>1</maxlogins>
+    <licdata>AImoGvllaekMsX+2rlLqLwu252BUmOT54qCBejaxbxsjqvv5CIPDkz4GG9/Mzp8ihPqYyXCdVRw85aTIGCGBks1DwtpdpZEEioaSdBIN8O6spIgDTBoZzByJtax2x4JeQNxpfQQkzBxKQZVhh9MVxG4O88PDoFHncuVnbSWuZMXb</licdata>
+  </feature>
+  <feature>
+    <id>20605</id>
+    <name>20605</name>
+    <maxlogins>1</maxlogins>
+    <licdata>AIoU4yet4jSfcZpWAtyg1YaBOjtDS5b4GCwuKRfyxiO0aaW86DEydEwS/Qf379lOdHZXM9IcZb9piCJi/TfQfDeAEiIlNETmx37MCCFfWaDEinUgbddBAwl7OXW4rKMVPggOYVo4UdCA8IrrLODC2jJiRMfhL6aIEMXjCZQtNoQ8</licdata>
+  </feature>
+  <feature>
+    <id>20610</id>
+    <name>20610</name>
+    <maxlogins>1</maxlogins>
+    <licdata>T0ogu3w44frQMyIT32Xja15fDHAhHwaN/Kx3igzprKLKMjJr+1IH8sbFMtrahDrZlxTb+BkDpBJBAwfsZ6AsxCRpDPR19sws9/xatGcPHp7MG4SgDQv4OI54d/sWbUp/aK9m+YddICj4ebfX3wIzFiACe4PE5Pzh028Z47ebITQ=</licdata>
+  </feature>
+  <feature>
+    <id>21031</id>
+    <name>21031</name>
+    <maxlogins>1</maxlogins>
+    <licdata>G39dih4tsUYnMHeg9iamU34Dxd4wryqBS4mdTasiMffttw8vmY5J6bQzaMvYfMQPaDbvOmIxUBoHqbKx6dBKrFjJzW0MgVAymikrgPFUgKjQNmtRc02lQ1ug0zWIeDGjxxAcOBalZ2oIiqM5/IAryxp7hOA0Igt/GWtjXHB2dyY=</licdata>
+  </feature>
+  <feature>
+    <id>21032</id>
+    <name>21032</name>
+    <maxlogins>50</maxlogins>
+    <licdata>MuBXJI8kvXu9UnoXM8amsJQDrZqXZwZ0BsxeXP6U6OBlVpZTZEa1fyVU4SknRzMwiHtHBPTBX1WBSB8h0cid8cxnmLy+fYSmyuFKMs+5H+KCMyvsFYmKfnYGfgeSCXh2Ctf4eUYs2jQiQ55jhar0HsbT9vi8AxAp/smPl1mB/A==</licdata>
+  </feature>
+  <feature>
+    <id>21033</id>
+    <name>21033</name>
+    <maxlogins>1</maxlogins>
+    <licdata>AISOUBrSRl0rULEc+iGmQsUa/a6g4SGBgeBDvdqiz1x9J9OZPOuQCqYPGvSsZsGXWToe46vBfySMLHX8puraB2I3ZIDDr7OwitgV99n9qTSiUNW4G9K7RAReJ1sLBnDEKC/wOSN3KUYyJnMg0j2mDTE5qak8nhON2VLl1GZT39Bi</licdata>
+  </feature>
+</supermap_license>
